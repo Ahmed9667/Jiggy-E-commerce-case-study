@@ -4,12 +4,15 @@
 ● As Jiggy E-commerce embarks on a journey of rapid growth and expansion, its existing infrastructure
 for managing sales transactions has been pushed to its limits. The company is grappling with several
 critical issues:
+
 `1.` Data Integrity and Accuracy: Inconsistent data entry and the lack of a robust validation system
 have led to inaccuracies in the transactional records. This undermines trust in the data and
 hampers the ability to make informed decisions.
+
 `2.` Scalability Concerns: With an increasing number of transactions, the current system fails to scale
 efficiently. This results in slower processing times, delayed reporting, and an inability to handle
 peak loads, affecting both operational effectiveness and customer satisfaction.
+
 `3.` Customer Experience: At the heart of these technical challenges lies the impact on the customer
 experience. Issues such as order delays, inaccurate product information, and a lack of
 personalized recommendations have led to customer dissatisfaction and eroded loyalty.
